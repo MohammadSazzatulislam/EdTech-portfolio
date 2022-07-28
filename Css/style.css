@@ -2,6 +2,8 @@
     font-family: 'Roboto', sans-serif;
 }
 .bannercaption{
+    width: 100%;
+    height: 100%;
     left: 0;
     right: 0;
     top: 0;
@@ -9,7 +11,7 @@
 }
 
 .fa-facebook-f, .fa-twitter, .fa-linkedin-in,.fa-instagram{
-    background-color: rgba(128, 128, 128, 0.326);
+    background-color: rgba(128, 128, 128, 0.589);
     border-radius: 50%;
     padding: 10px 13px ;
     color: white;
